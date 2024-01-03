@@ -69,12 +69,12 @@ export default function Authors() {
               data-mdb-tab-init
               class="nav-link"
               id="ex3-tab-3"
-              href="mevlana"
+              href="#ex3-tabs-3"
               role="tab"
               aria-controls="ex3-tabs-3"
               aria-selected="false"
             >
-              <strong><h5>Mevlana</h5></strong>
+              <strong><h5>İskender</h5></strong>
             </a>
           </li>
           <li class="col-md-4 nav-item" role="presentation">
@@ -162,7 +162,7 @@ export default function Authors() {
               aria-controls="ex3-tabs-3"
               aria-selected="false"
             >
-              <strong><h5>İskender Pala</h5></strong>
+              <strong><h5>İskender</h5></strong>
             </a>
           </li>
           <li class="col-md-4 nav-item" role="presentation">

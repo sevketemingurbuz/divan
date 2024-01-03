@@ -20,3 +20,9 @@ body {
 .top3{
   margin-top: 3em;
 }
+
+.new{
+  height: 500px;
+  width: 300px;
+  background-color: aqua;
+}

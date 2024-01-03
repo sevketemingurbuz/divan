@@ -6,6 +6,7 @@ import Authors from '../pages/Authors';
 import Test from '../pages/Test';
 import Author from '../pages/Author';
 import { Route, Router, Routes } from 'react-router-dom';
+import Yeni from '../pages/Yeni';
 
 
 
