@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.background-image {
+  position: relative;
+}
+
+#introCarousel,
+.carousel-inner,
+.carousel-item,
+.carousel-item.active {
+  height: 100vh;
+}
+
+.top3{
+  margin-top: 3em;
+}
